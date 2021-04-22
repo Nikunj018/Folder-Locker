@@ -1,4 +1,4 @@
-# Fall-Detection
+# Folder-Locker
 A desktop app that secure folder using Rijndael algorithm in C#. 
 Used Two way Authentication to secure folder. Physical Address 
 of  any device fetched through Bluetooth and link to folder along 
