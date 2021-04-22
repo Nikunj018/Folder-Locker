@@ -40,8 +40,8 @@ namespace Folder_Locker
         }
         IFirebaseConfig ifc = new FirebaseConfig()
         {
-            AuthSecret = "ekqr50oR9QBSOgkiebtXlp4Z98Ca4WLOlejqKcM0",
-            BasePath = "https://folder-locker-7f20a-default-rtdb.firebaseio.com/"
+            AuthSecret = "Authpath",
+            BasePath = "BasePath
         };
         IFirebaseClient client;
 
